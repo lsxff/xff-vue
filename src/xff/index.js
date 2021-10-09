@@ -1,0 +1,1 @@
+import './packages/components/icon/index.tsx';
